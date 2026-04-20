@@ -74,4 +74,14 @@ lib/
 
 ## 4. Problèmes rencontrés 
 
-J'aurais avoir pu pouvoir implémenter plsuieurs fonctionnalités suppl
+
+
+## 5. Améliorations possibles
+
+Pour améliorer le site, j'ai pensé à plusieurs fonctionnalités supplémentaires : 
+
+1. J'aimerais pouvoir mettre des images pour représenter les trois catégories (posters de films, photos des planètes et des personnages)
+2. J'ai vu que dans l'API plusieurs autres catégories existaient (Espèces, véhicules, vaisseaux) qui pourraient être intégrés au site.
+3. Une option pour chercher des informations spécifiques (barre de recherche, option à cocher)
+4. Les informations présentées sont en anglais et il faudrait que je puisse les traduire pour améliorer la qualité du site
+5. Améliorer la qualité visuelle du site car le rendu est très moche par endroits (surtout sur l'onglet film) 
