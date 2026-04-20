@@ -72,11 +72,7 @@ lib/
     └── error_widget.dart       # Widget d'erreur avec retry
 ```
 
-## 4. Problèmes rencontrés 
-
-
-
-## 5. Améliorations possibles
+## 4. Améliorations possibles
 
 Pour améliorer le site, j'ai pensé à plusieurs fonctionnalités supplémentaires : 
 
